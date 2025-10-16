@@ -37,6 +37,10 @@ La app está disponible en:
 http://localhost:8501
 
 ---
+## Demo en vivo
+Puedes ver la aplicación desplegada aquí:  
+[https://vehicles-streamlit-sjp6.onrender.com](https://vehicles-streamlit-sjp6.onrender.com)
+
 
 ## Autor
 Proyecto desarrollado por **Rodrigo García (icespots)** como práctica del módulo de **Streamlit (Sprint 7)**.
